@@ -1,0 +1,6 @@
+python-vlc
+sounddevice
+vosk
+ibm_watson
+ibm_cloud_sdk_core
+python-dotenv
